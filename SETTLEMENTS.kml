@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="CHEVELLA">
+  <name>CHEVELLA</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00ffffff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>CHEVELLA</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Nyalata</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.11258721187586,17.34085824665917,0 78.11283955374812,17.34106655011621,0 78.11282354015981,17.34135090624692,0 78.1127517472646,17.34158280791837,0 78.11252779022618,17.34158077841645,0 78.11154435615767,17.34147475108785,0 78.11154268857567,17.34143708932019,0 78.11188273776725,17.3403147133123,0 78.11240054525994,17.34029539438925,0 78.11272519774667,17.34028305894169,0 78.1128870467701,17.34060228821395,0 78.1126318308071,17.340595814045,0 78.11258721187586,17.34085824665917,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2323</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Allawada</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.14717085254972,17.27248372408629,0 78.14713063774694,17.27248575612663,0 78.1471020019199,17.27279885386324,0 78.14693069750331,17.27289660534651,0 78.14674848049599,17.27269258672753,0 78.14637342141256,17.27267508417634,0 78.14632847147875,17.27251708919944,0 78.14622887556979,17.27238130114039,0 78.1462377763508,17.27224201430067,0 78.14624599951617,17.2721267154286,0 78.14626936825611,17.27180131147648,0 78.14641483035027,17.27177934787817,0 78.14656495236351,17.27185525924446,0 78.14710051392072,17.27212321409804,0 78.14724244125701,17.27221562326809,0 78.14743667985769,17.27227962024119,0 78.14772807537325,17.2723548022192,0 78.14767726798368,17.2724945728209,0 78.14758008676931,17.27247956000105,0 78.14741706925579,17.27247140974178,0 78.14717085254972,17.27248372408629,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3005</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Damergidda</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.10518006641958,17.30932150570857,0 78.10465983571861,17.30936217177508,0 78.1042069151368,17.30908847086099,0 78.1038732442122,17.30895115584826,0 78.10371542052945,17.30886970925821,0 78.10370715495559,17.30872992036333,0 78.10359987205518,17.30848278692474,0 78.1037621497351,17.30824462471887,0 78.10408825459176,17.30786769412291,0 78.10447500259042,17.30786260584978,0 78.10463098679321,17.30796606483142,0 78.10467868399026,17.30799766286782,0 78.10535395640238,17.30800118802608,0 78.1059180020749,17.30799343556007,0 78.10578528180308,17.30728699779097,0 78.10568783128633,17.30672270142964,0 78.10639767458693,17.30636088250413,0 78.10685771882717,17.30638074353226,0 78.10741539861323,17.30676334876396,0 78.10766844594278,17.30678010291996,0 78.10811553720943,17.30674895743983,0 78.10816148248234,17.30683342112783,0 78.10827683382396,17.30704519812891,0 78.10817311104026,17.30708100641874,0 78.10822048701324,17.30807594026667,0 78.10818656566109,17.30841909632596,0 78.10800418642248,17.30858337667532,0 78.10724639384217,17.30869238587877,0 78.10713017393849,17.30872020801001,0 78.10694988835229,17.3087173985585,0 78.10597227000201,17.30897885678351,0 78.10518006641958,17.30932150570857,0</coordinates></LinearRing></outerBoundaryIs>
+          <innerBoundaryIs><LinearRing><coordinates> 78.1039630504,17.30819632085189,0 78.10392282527128,17.30831156778641,0 78.10390478683145,17.30875999843784,0 78.10436143001387,17.30897637651146,0 78.10468001076892,17.30918052413269,0 78.10491651347614,17.3092191645722,0 78.10502995623035,17.30920347656553,0 78.10573759139342,17.30894374131417,0 78.10614618613265,17.30864207715327,0 78.10605779137033,17.30835334480676,0 78.10595555916957,17.30816744862658,0 78.10536073307097,17.30816653341728,0 78.10510442986289,17.30809430126476,0 78.10467449948645,17.30811480665695,0 78.10424696272148,17.30799948827189,0 78.1039630504,17.30819632085189,0</coordinates></LinearRing></innerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3338</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Devarampalle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.06911847618295,17.24874387284255,0 78.06934297993021,17.24886834892789,0 78.06917167695927,17.24904979174536,0 78.06865844409668,17.2490810648805,0 78.06824138998213,17.24907681555512,0 78.06834575126703,17.24883163410981,0 78.06845741215886,17.24879840796889,0 78.06847833190973,17.24868630196189,0 78.06840902618625,17.24857231121326,0 78.0682838711062,17.24866907514521,0 78.06808481229363,17.24845155820829,0 78.06806109357258,17.24863223906138,0 78.0675605898136,17.24868460067161,0 78.06721634761804,17.24865700195368,0 78.06721533372779,17.2483320313904,0 78.06740237445362,17.24745246795509,0 78.06746462409161,17.24712641801019,0 78.06780308715581,17.24724514405935,0 78.06815783257645,17.24732075325744,0 78.0684403797276,17.24740485474268,0 78.06880764734343,17.24791568135155,0 78.06886266431017,17.24833029416985,0 78.06903152087897,17.24838592209688,0 78.06911847618295,17.24874387284255,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3624</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Gollapalle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.16296648198863,17.34836575950103,0 78.16247929256878,17.34849265443791,0 78.16227984501585,17.34844687877598,0 78.16187113840677,17.34835599942405,0 78.161370536654,17.34755580947002,0 78.16128336941564,17.34716540108147,0 78.16154901798348,17.34707884189787,0 78.16168129694981,17.34727681979213,0 78.16183384234633,17.34716689421259,0 78.16179194230567,17.34699790184688,0 78.16215204137464,17.34694264824227,0 78.16271616249433,17.34728188537335,0 78.16317161340221,17.34734600019299,0 78.16333290334353,17.34733006298756,0 78.16296648198863,17.34836575950103,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3752</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Gollapalle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.16622821845129,17.36052510094796,0 78.16583530699432,17.36053627390642,0 78.16584346583171,17.36081428816794,0 78.16553537086114,17.36076135473174,0 78.16547348084534,17.36033313521533,0 78.16520269032998,17.36038087370678,0 78.16501553494247,17.35994004401378,0 78.1653918283113,17.35985783275179,0 78.16528142400863,17.35949644179185,0 78.16522865899306,17.35932728776111,0 78.16574346187733,17.35894286519276,0 78.16673115412449,17.35903697416771,0 78.16676705299622,17.35977988826154,0 78.16675733643719,17.36006002716724,0 78.16618298353696,17.36014271734578,0 78.16622821845129,17.36052510094796,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3912</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Ibrahimpalle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.12925672632848,17.32885043281782,0 78.12904744558925,17.32891529416575,0 78.12899122054141,17.32872223141437,0 78.12884137004545,17.32872268097826,0 78.12869660880848,17.32871341220456,0 78.12865508499229,17.3286765875357,0 78.1284808819769,17.32857344294217,0 78.1282042417471,17.32852342620436,0 78.12839089168801,17.32820663862959,0 78.12847699247143,17.32794012277349,0 78.12850170620149,17.32768935092915,0 78.12885069834863,17.32760249110485,0 78.12880767140196,17.32747697277851,0 78.12874450279963,17.32735520230924,0 78.12889362375738,17.32730111762574,0 78.12897343097356,17.32705134071523,0 78.12919855394644,17.32718186902613,0 78.12952960994663,17.32751398637595,0 78.12965940222794,17.3276369108375,0 78.12962282490753,17.32809040568124,0 78.1296225087373,17.32815702531954,0 78.12925739832126,17.32853868578949,0 78.12925672632848,17.32885043281782,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4119</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Kammeta</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.16370737031949,17.37821438846028,0 78.16362589140763,17.37838903907214,0 78.16351672600689,17.37843398779306,0 78.16339890551347,17.37848840067327,0 78.16313634604653,17.37848655517114,0 78.16299451841839,17.37853011645806,0 78.16280286162032,17.37867055217801,0 78.16228923790017,17.37849110016321,0 78.16217155857537,17.3781875119153,0 78.16181929098663,17.37825149412428,0 78.16160188243205,17.37786055205389,0 78.1617680351291,17.37778451310153,0 78.16171560091196,17.37753401421095,0 78.16195177238527,17.37757571324714,0 78.16175586736632,17.37717626783816,0 78.1617363219475,17.37703744394941,0 78.16173269840056,17.37679775136538,0 78.16177096985871,17.37672257842137,0 78.16209560240129,17.37683562822797,0 78.16212469742246,17.37628312631428,0 78.16187572955539,17.37609956228813,0 78.16225163202002,17.37569191004337,0 78.16208859184573,17.37527908114619,0 78.16206006741544,17.37520700015904,0 78.16205405732556,17.37518203410235,0 78.16220693685624,17.37515287859125,0 78.16261546561969,17.37531220756938,0 78.16270959693772,17.37620049137452,0 78.16289213213446,17.37608513239304,0 78.1629374623825,17.37628240849153,0 78.16273010253752,17.37647756102675,0 78.16285470936025,17.37666523909144,0 78.16298758137577,17.37655459955524,0 78.16299601091478,17.37638044178721,0 78.16318844430131,17.37641986103711,0 78.16329182027521,17.37661269992286,0 78.16310635042839,17.37684097563144,0 78.16309344397362,17.37696933182781,0 78.16335105153793,17.37693757488314,0 78.16335444369886,17.37708119537071,0 78.16349795536514,17.37700451173168,0 78.16371174368315,17.37696337797774,0 78.16364622808841,17.37703941558264,0 78.16350323087907,17.37741246194216,0 78.16374284432578,17.37748000357665,0 78.16411071592862,17.37758057533447,0 78.16435340682462,17.37750583414715,0 78.16476005908588,17.37754514960423,0 78.16476605766086,17.37760355120765,0 78.16478747106316,17.37795898524873,0 78.16454313188466,17.37808695409936,0 78.16421426660082,17.37794999472425,0 78.16411018438754,17.37807337986596,0 78.16396276601586,17.37805684478492,0 78.16370737031949,17.37821438846028,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5216</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Khanapur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.0657190293941,17.28563935998601,0 78.06540641610326,17.28572286096864,0 78.06436456735452,17.28511489636504,0 78.06376388607178,17.28477293875925,0 78.06377985949423,17.28463241935401,0 78.06428729755541,17.28488769384526,0 78.06442395677217,17.28443651131571,0 78.06378761314669,17.28418654701633,0 78.06374599979283,17.28330574009676,0 78.06401436801919,17.28331899622341,0 78.06395793589815,17.28303761760792,0 78.06528684710051,17.2835047792698,0 78.06591164323341,17.28359667679585,0 78.06613011428841,17.28416676484169,0 78.06610651048443,17.2844394883004,0 78.06609210707083,17.2850186621898,0 78.06573229771007,17.28505161725897,0 78.06581856305405,17.28542437016305,0 78.06566174680924,17.28540126738065,0 78.0657190293941,17.28563935998601,0</coordinates></LinearRing></outerBoundaryIs>
+          <innerBoundaryIs><LinearRing><coordinates> 78.06440982633704,17.28495167044303,0 78.06472899588741,17.28516232631589,0 78.06524589086811,17.28549045130222,0 78.06528183802301,17.28501578593625,0 78.06478652729263,17.28481759344432,0 78.06444451357955,17.28478967678724,0 78.06440982633704,17.28495167044303,0</coordinates></LinearRing></innerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5531</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Kummera</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.18058578803237,17.3404069128132,0 78.18040118095865,17.34048204178959,0 78.18025640038883,17.34043240821256,0 78.18005701315455,17.34036417366492,0 78.17996621419965,17.34045060857508,0 78.17971318451553,17.34037434341428,0 78.17968932358623,17.340166594234,0 78.17932211534992,17.34013734779858,0 78.1790179844366,17.34013051570983,0 78.17878609964838,17.33981546060932,0 78.17879008639659,17.33967165219998,0 78.17884996198859,17.33928577205413,0 78.17886778739928,17.33916676497156,0 78.17895112775277,17.33882545375857,0 78.17948005531451,17.33846668229244,0 78.17980181139423,17.33841940468185,0 78.17998614896143,17.33867572842462,0 78.18017752913656,17.33862849239752,0 78.18025664265394,17.33884391221269,0 78.18050838515018,17.33873568514824,0 78.18065825019552,17.33875034361231,0 78.18067954772258,17.33893087330632,0 78.18069612986714,17.3390340459124,0 78.18070677318795,17.33913690082477,0 78.18053508943606,17.33917903917956,0 78.18040971071055,17.33922982128928,0 78.18062927916046,17.33956838713237,0 78.18084723815123,17.33949068716712,0 78.18083297284879,17.33930393223402,0 78.1810093341649,17.33932001255184,0 78.18124948367867,17.33939054951959,0 78.18129090894968,17.3395464219031,0 78.18123008135986,17.33962014583103,0 78.1812392011642,17.33976141307246,0 78.18129350208736,17.33984468200964,0 78.181329862852,17.33995216332238,0 78.18115247906431,17.3401586093413,0 78.18105716359422,17.34023059029086,0 78.18097168710972,17.34012505676253,0 78.18061843490342,17.34012039875919,0 78.18058578803237,17.3404069128132,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5789</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Malkapur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.17361817146215,17.32426991871594,0 78.17360699376844,17.32471912108587,0 78.17370614664937,17.32485110722676,0 78.17309651040868,17.32516128327722,0 78.17292998823936,17.32524996541347,0 78.17279380420432,17.32544519116023,0 78.17258308926148,17.32552758308021,0 78.17220951664697,17.3255142257211,0 78.17219306885566,17.32546645911588,0 78.17199261418222,17.32537579823815,0 78.17188728457045,17.32508427404689,0 78.17187983029116,17.32493629819058,0 78.17181378504128,17.32455052808912,0 78.17189182979138,17.32441618512991,0 78.17187079384823,17.32408529216817,0 78.17193165712587,17.32389877230749,0 78.17243750278283,17.32365973642502,0 78.17234669066464,17.32349210884859,0 78.1722539720196,17.32340265271722,0 78.17217978664972,17.3231098331358,0 78.17229291578039,17.3230338548914,0 78.17275050416421,17.32324287441709,0 78.17351200750949,17.32334081970587,0 78.17412797108494,17.3231337783339,0 78.17422498617211,17.32320008841403,0 78.17407984627398,17.32353539107987,0 78.17476001363876,17.32353539906759,0 78.17477877260497,17.32375044058884,0 78.17476894781906,17.32394432710414,0 78.17459579980166,17.32398255135602,0 78.17454339332456,17.32397712266469,0 78.17420748892937,17.32394225410691,0 78.17361817146215,17.32426991871594,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6396</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Mudimyal</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.2020268533537,17.33299356510969,0 78.2021235226611,17.33308547250639,0 78.201940653484,17.33316835375726,0 78.20175703807479,17.33389470297536,0 78.20162052456331,17.33404024218043,0 78.20147265744097,17.33404867003756,0 78.20075454305163,17.33428576932871,0 78.20065390119278,17.33437587204723,0 78.20064526852623,17.33447152540982,0 78.20066946799938,17.3347481834678,0 78.20066284611252,17.33485375515185,0 78.20062760756565,17.33492862521204,0 78.20045164445692,17.33521814596717,0 78.20037006953076,17.33535548597112,0 78.200309961103,17.3354191785686,0 78.20020732379768,17.33549972736775,0 78.20013278472035,17.3355639941069,0 78.20002141253987,17.3355444821888,0 78.19964299209222,17.33549740704605,0 78.19947417118274,17.3354764071155,0 78.1995886362528,17.33482596410136,0 78.19977866704538,17.33442020861945,0 78.19979767520198,17.3342896453881,0 78.19936061871725,17.33411441189979,0 78.19912861742607,17.33400954767026,0 78.19910388693251,17.33372372008546,0 78.19896705843652,17.33319685232328,0 78.1989607152226,17.33281525985737,0 78.19895740905746,17.33261618561323,0 78.19907323913841,17.33247236021407,0 78.19926704337178,17.33269061667161,0 78.19938659541467,17.33266614104004,0 78.19939880993161,17.33271759807874,0 78.1994148429264,17.33278513503722,0 78.19979978464174,17.33270518264228,0 78.19990413338898,17.33260207923213,0 78.20014894173936,17.33277160983483,0 78.20045125991233,17.33243373492574,0 78.2010045477741,17.3323108307706,0 78.20106591799939,17.33235181610051,0 78.2020268533537,17.33299356510969,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6525</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Orella</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.13521211873655,17.36488822188827,0 78.13526519826432,17.36515841736811,0 78.1341088777456,17.36528920291337,0 78.13417916433345,17.36388553502339,0 78.1348510707834,17.36369049483442,0 78.13521211873655,17.36488822188827,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7161</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Yenkepalle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.13649089404349,17.38527897985546,0 78.13661770968653,17.38562351190101,0 78.1365109729575,17.38568847091206,0 78.13643100891198,17.38573670412112,0 78.13620677105135,17.38551072479586,0 78.13601683342939,17.38521426038164,0 78.13581549392399,17.38490105839809,0 78.13558622530002,17.38453996618398,0 78.13591220046614,17.38433327639064,0 78.13586433379336,17.38398254071902,0 78.13588158424339,17.38380875475937,0 78.13599977350202,17.38380518399947,0 78.13638138050554,17.38429596586813,0 78.13671804499367,17.38422658563737,0 78.13674910197675,17.38445851397755,0 78.13711219320099,17.38448554820502,0 78.13739410970896,17.38469930037078,0 78.13762800356497,17.38519918221029,0 78.13739543380358,17.38516929324756,0 78.13649089404349,17.38527897985546,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8071</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Regadghanapur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>RESIDENTIAL ZONE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>SETTLEMENT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.0653118000707,17.2695474836859,0 78.06516434101187,17.26962595874632,0 78.06515633723079,17.26941901923522,0 78.06474203773681,17.26945265830845,0 78.06425125088779,17.26935925282771,0 78.06402464843345,17.2694480109487,0 78.06399943756014,17.26927539393245,0 78.06365902156243,17.26924868560923,0 78.06362273599208,17.26907028718858,0 78.06366573372827,17.26906507131411,0 78.06394045574147,17.26905912931274,0 78.06397760057649,17.26862411018669,0 78.0638444701284,17.26865418507197,0 78.06398647292488,17.26803306196459,0 78.06411574269865,17.26787233528235,0 78.06424828978989,17.26743690116218,0 78.06426911979156,17.26712693834176,0 78.06484974366008,17.26730711012377,0 78.06507737120367,17.26756222337797,0 78.06527487698546,17.26758279520997,0 78.06542984649748,17.26767586055468,0 78.06552015315067,17.26778818165307,0 78.06559614631655,17.26797830960876,0 78.06528948899755,17.2679857112688,0 78.06534969087292,17.26836890560381,0 78.06563642517244,17.26848089345768,0 78.06582203538296,17.26860107421402,0 78.06541958138419,17.26875153693874,0 78.06549179028936,17.26905855201667,0 78.0653118000707,17.2695474836859,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

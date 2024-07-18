@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="CHEVELLA">
+  <name>CHEVELLA</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00ffffff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>CHEVELLA</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5493</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Kummera</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>TRAFFIC AND TRANSPORTATION</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>ROAD</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.18025498420243,17.33840056139709,0 78.17980181139423,17.33841940468185,0 78.17948005531451,17.33846668229244,0 78.17942684070394,17.33826586136586,0 78.17972481161871,17.33826385717771,0 78.1799704285269,17.33819088811765,0 78.18008720271857,17.33821115083369,0 78.18019413280213,17.33820290877311,0 78.18110619115157,17.33818186941904,0 78.18152717884108,17.33813589622293,0 78.18218090536907,17.33812671174313,0 78.18276825023709,17.33805745125443,0 78.183626043659,17.3380136854779,0 78.18480344845429,17.33781442899148,0 78.18523823056768,17.33771637552417,0 78.18534369129893,17.3376703424785,0 78.18548893028773,17.33762096425415,0 78.18707141534338,17.3369883522756,0 78.18721721700364,17.33690632681702,0 78.18733594755274,17.33686839218503,0 78.18894743371318,17.33587867985746,0 78.18898235664462,17.33596198095628,0 78.18901318966365,17.33603552339789,0 78.18836547744222,17.33650015511439,0 78.1877975784372,17.33691155318698,0 78.18739443978691,17.33705629221958,0 78.18547320906494,17.33781259784789,0 78.18521030198646,17.33787400482111,0 78.18500547801798,17.33796058205432,0 78.183178479041,17.33825104749004,0 78.18258573617382,17.33825914408187,0 78.18212215042226,17.33824530996715,0 78.18111437570128,17.33835688429549,0 78.18063209590584,17.33834484450617,0 78.18025498420243,17.33840056139709,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6399</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>State</td>
+<td></td>
+</tr>
+<tr>
+<td>District</td>
+<td>Rangareddy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Tehsil</td>
+<td>Chevella</td>
+</tr>
+<tr>
+<td>Village</td>
+<td>Mudimyal</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Khasra_No</td>
+<td></td>
+</tr>
+<tr>
+<td>Area_Ac</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU_LC</td>
+<td></td>
+</tr>
+<tr>
+<td>MP_CLASS</td>
+<td>TRAFFIC AND TRANSPORTATION</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MP_SUB_CLS</td>
+<td>ROAD</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 78.19435761590933,17.33397478826313,0 78.19430866523393,17.33398368794856,0 78.19391870476642,17.33405457664331,0 78.19359137800565,17.33417003578869,0 78.19173955786263,17.33482323577769,0 78.18898235664462,17.33596198095628,0 78.18894743371318,17.33587867985746,0 78.18884979560602,17.3358301062698,0 78.19173328543606,17.33467167326735,0 78.19221818761429,17.33448109241481,0 78.19356000174464,17.33404695237468,0 78.19396631287948,17.3339154916324,0 78.19493463283095,17.33356806265834,0 78.19537918395277,17.33354486704523,0 78.19563281530598,17.33354727496475,0 78.1958228304678,17.33347714413485,0 78.19589327202505,17.33352028280624,0 78.19625846864419,17.33355300260332,0 78.19639925406054,17.33361375653839,0 78.19664888636932,17.33361766957588,0 78.1967412154582,17.33367089792699,0 78.19673159714877,17.33376852433126,0 78.1968899741416,17.33372661297156,0 78.19688711722038,17.33360271696712,0 78.19696606078213,17.33354806207703,0 78.19753899840327,17.33371336391092,0 78.19800754238962,17.33374810780386,0 78.19863335527731,17.33376405684297,0 78.19910388693251,17.33372372008545,0 78.19912861742607,17.33400954767026,0 78.1990259402052,17.33401082901668,0 78.19889933240421,17.33396832430635,0 78.19880966881318,17.33408297180527,0 78.19855424546972,17.33404136987988,0 78.19844445431976,17.33391619546341,0 78.19809893388944,17.33386564671823,0 78.19773163684492,17.33384581942001,0 78.19715320689355,17.33380587116502,0 78.196991466668,17.33389911872311,0 78.19666004475393,17.33388217906069,0 78.19640597999685,17.33379476433192,0 78.19517941138194,17.33376054515053,0 78.19435761590933,17.33397478826313,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
