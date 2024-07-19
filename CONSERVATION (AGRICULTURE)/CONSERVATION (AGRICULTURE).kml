@@ -10,11 +10,11 @@
       <scale>0.000000</scale>
     </LabelStyle>
     <LineStyle>
-      <color>446e6e6e</color>
+      <color>666e6e6e</color>
       <width>0.400000</width>
     </LineStyle>
     <PolyStyle>
-      <color>44fabecc</color>
+      <color>66fabecc</color>
       <outline>1</outline>
     </PolyStyle>
   </Style>
